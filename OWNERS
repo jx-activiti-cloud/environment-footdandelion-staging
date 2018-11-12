@@ -1,0 +1,10 @@
+approvers:
+- salaboy
+- jenkins-x-bot
+- miguelruizdev
+- ryandawsonuk
+reviewers:
+- jenkins-x-bot
+- miguelruizdev
+- ryandawsonuk
+- salaboy
